@@ -27,7 +27,7 @@ import static javafx.application.Application.launch;
 
 
 
-public class HelloApplication extends Application{
+public class StickHero extends Application{
     private Person person;
     private Text scoreText;
     public void start(Stage stage) throws Exception {
